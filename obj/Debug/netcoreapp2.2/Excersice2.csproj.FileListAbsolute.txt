@@ -1,0 +1,11 @@
+/home/edmayen/NET - C#/Excersice2/obj/Debug/netcoreapp2.2/Excersice2.csprojAssemblyReference.cache
+/home/edmayen/NET - C#/Excersice2/obj/Debug/netcoreapp2.2/Excersice2.csproj.CoreCompileInputs.cache
+/home/edmayen/NET - C#/Excersice2/obj/Debug/netcoreapp2.2/Excersice2.AssemblyInfoInputs.cache
+/home/edmayen/NET - C#/Excersice2/obj/Debug/netcoreapp2.2/Excersice2.AssemblyInfo.cs
+/home/edmayen/NET - C#/Excersice2/bin/Debug/netcoreapp2.2/Excersice2.deps.json
+/home/edmayen/NET - C#/Excersice2/bin/Debug/netcoreapp2.2/Excersice2.runtimeconfig.json
+/home/edmayen/NET - C#/Excersice2/bin/Debug/netcoreapp2.2/Excersice2.runtimeconfig.dev.json
+/home/edmayen/NET - C#/Excersice2/bin/Debug/netcoreapp2.2/Excersice2.dll
+/home/edmayen/NET - C#/Excersice2/bin/Debug/netcoreapp2.2/Excersice2.pdb
+/home/edmayen/NET - C#/Excersice2/obj/Debug/netcoreapp2.2/Excersice2.dll
+/home/edmayen/NET - C#/Excersice2/obj/Debug/netcoreapp2.2/Excersice2.pdb
